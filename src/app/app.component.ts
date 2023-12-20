@@ -10,5 +10,6 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'your-project-name';
+  title = 'My First Angular Project';
+  // description = "Berdikulov Sanjarbek";
 }
